@@ -1,0 +1,9 @@
+{
+    "name": "fredrumond/bakkhos",
+    "autoload": {
+        "psr-4": {
+            "Fredrumond\\Bakkhos\\": "src/"
+        }
+    },
+    "require": {}
+}
